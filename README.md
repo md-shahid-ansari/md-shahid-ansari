@@ -42,7 +42,7 @@
 
 ## 🚀 Featured Projects  
 
-### [AI Powered Data Query Interface](https://github.com/md-shahid-ansari/AI-Data-Query-Interface)  
+### [AI Powered Data Query Interface](https://github.com/md-shahid-ansari/ai-query-interface)
 An AI-driven system leveraging **Transformer Models**, enabling complex data analysis and user-friendly query responses.  
 **Technologies**: Python, React.js, REST APIs  
 
@@ -54,11 +54,11 @@ A platform connecting students, mentors, and companies for collaboration and men
 A clinic management system with secure appointment scheduling and health record management.  
 **Technologies**: Node.js, MongoDB, JWT  
 
-### [Freshness Check System](https://github.com/md-shahid-ansari/Freshness-Check)  
+### [Freshness Check System](https://github.com/md-shahid-ansari/Flipkart-Robotics)
 A machine learning system for product freshness analysis.  
 **Technologies**: Python, OpenCV, YOLOv8  
 
-### [Crop Recommendation System](https://github.com/md-shahid-ansari/Crop-Recommendation)  
+### [Crop Recommendation System](https://github.com/md-shahid-ansari/ai-driven-farm)  
 A data-driven platform for crop selection based on soil and weather data analysis.  
 **Technologies**: Python, Data Analysis, Machine Learning  
 
