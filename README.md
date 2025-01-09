@@ -66,7 +66,7 @@ A data-driven platform for crop selection based on soil and weather data analysi
 
 ## 🤝 Let's Connect!  
 - 📧 **Email**: [sajarsadaf2000@gmail.com](mailto:sajarsadaf2000@gmail.com)  
-- 💼 **LinkedIn**: [Md Shahid Ansari](https://linkedin.com/md-shahid-ansari-au)  
+- 💼 **LinkedIn**: [Md Shahid Ansari](https://linkedin.com/in/md-shahid-ansari-au)  
 - 🌟 **LeetCode**: [LeetCode Profile](https://leetcode.com/md_shahid_ansari)  
 - 📂 **GitHub**: [GitHub Profile](https://github.com/md-shahid-ansari)  
 
