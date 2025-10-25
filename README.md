@@ -6,7 +6,7 @@
 ---
 
 ## 🌟 About Me  
-- 🎓 Computer Science Engineering student at **Aliah University, Kolkata** (BCA 2025).  
+- 🎓 Computer Science Engineering student at **Aliah University, Kolkata** (MCA 2027).  
 - 💡 Experienced in **15+ projects and hackathons**, showcasing expertise in backend development and AI/ML.  
 - 🌍 Proficient in developing secure, data-driven applications using **Node.js**, **Express.js**, and **MongoDB**.  
 - 🛠️ Actively expanding knowledge in **GraphQL**, **WebSockets**, **OAuth**, **Redis**, and cloud platforms like **AWS**, **Azure**, and **Google Cloud**.  
