@@ -1,6 +1,6 @@
 # 💻 Md Shahid Ansari 
 
-🌐 **Backend Developer | AI & ML Enthusiast | Innovator**  
+🌐 **Full-Stack & AI Developer | Node.js · Next.js · Docker · Cloud | SaaS & AI Solutions | Hackathons 🏆 | Open to Freelance 🚀**  
 🚀 Passionate about building scalable, efficient, and innovative solutions at the intersection of backend development and AI/ML.  
 
 ---
